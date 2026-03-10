@@ -1,4 +1,4 @@
-# Blueshift Anchor Escrow
+# Anchor Escrow
 
 一个基于 Solana 区块链的去中心化托管（Escrow）协议，使用 Anchor 框架开发。
 
